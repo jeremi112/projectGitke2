@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/projectGitke2/static/css/main.db798329.css",
+    "main.js": "/projectGitke2/static/js/main.4e21ac98.js",
+    "static/js/787.9ecde847.chunk.js": "/projectGitke2/static/js/787.9ecde847.chunk.js",
+    "static/media/wallpaper-2.jpg": "/projectGitke2/static/media/wallpaper-2.2fc9c5aa0962f5f8cbab.jpg",
+    "static/media/wallpaper-3.jpg": "/projectGitke2/static/media/wallpaper-3.fca53a791e2203b2b3fd.jpg",
+    "static/media/gedung.jpg": "/projectGitke2/static/media/gedung.f9e170a75d4246a5965a.jpg",
+    "static/media/sertifikat1.jpg": "/projectGitke2/static/media/sertifikat1.1aa008e100e0f4ef2689.jpg",
+    "index.html": "/projectGitke2/index.html",
+    "main.db798329.css.map": "/projectGitke2/static/css/main.db798329.css.map",
+    "main.4e21ac98.js.map": "/projectGitke2/static/js/main.4e21ac98.js.map",
+    "787.9ecde847.chunk.js.map": "/projectGitke2/static/js/787.9ecde847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.4e21ac98.js"
+  ]
+}
